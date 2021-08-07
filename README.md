@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 - 🔭 I’m currently working on as SW Developer Trainee in Enterprise and studying M.Sc student majoring Computer Science.
 - 🌱 I’m currently learning about Machine Learning and General Programming.
