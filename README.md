@@ -1,7 +1,7 @@
 ### 👋
 
-- 🔭 I’m currently working on as SW Developer Trainee in Enterprise and studying M.Sc student majoring Computer Science.
-- 👯 I’m looking to collaborate on Open-Source.
+- 🔭 I’m currently working on as Junior Software Developer in Enterprise and studying M.Sc student majoring Computer Science.
+- 👯 I’m looking to Learn New Technologies.
 
 <!--
 **haapjari/haapjari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
