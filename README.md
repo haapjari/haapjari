@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔭 I’m currently working on as Junior Software Developer in Enterprise and studying M.Sc student majoring Computer Science.
+- 🔭 I’m currently working on as Developer and working with my Master's thesis.
 - 👯 I’m looking to Learn New Technologies.
 
 <!--
