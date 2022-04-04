@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔭 I’m currently working on as Developer and working with my Master's thesis.
+- 🔭 I’m currently working on as Developer and working with on Master's thesis.
 - 👯 I’m looking to Learn New Technologies.
 
 <!--
