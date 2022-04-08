@@ -14,7 +14,4 @@
 
 ### Content in my Repositories
 
-- `tutorial` - Prefix indicates that this is a Project Work, which Uses a Tutorial. Details in Description or README.md.
-- `notes` - Prefix indicates that this repository contains Notes from either Course or Book. Details in Description or README.md.
-- `university` - Prefix indicates that this repository contains University Work. Details in Description or README.md.
-- Repositories without Prefixes are personal projects. I am currently in progress of learning new technologies, so not alot here right now.
+- I've labeled my Repositories. I mostly have `University Coursework`, `Course` or `Notes` and Tutorials available publicly.
