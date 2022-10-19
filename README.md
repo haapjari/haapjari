@@ -1,8 +1,8 @@
 ### 👋
 
-- Currently working on as a Junior Developer and also finalizing my Master of Science Degree on Software and Telecommunications Technology.
-- I am still looking for my niche in Software Engineering. Currently using mostly Web Stack (`React`, `Node`) with modern DevOps (`Kubernetes`, `Azure`) Tools.
-- Looking to learn more low-level language next. Currently looking into `GoLang` and `C++`.
+- Currently working on as a Software Developer and also finalizing my M.Sc Degree on Software and Telecommunications Technology on Univiversity of Jyväskylä.
+- I am still looking for my niche in Software Engineering. Currently using tinkering with `Go` and creating backend services for Web Applications.
+- Looking to learn more on Containerization and Cloud Technologies.
 
 ---
 
@@ -15,3 +15,5 @@
 ### Content in my Repositories
 
 - I've labeled my Repositories. I mostly have `University Coursework`, `Course` or `Notes` and Tutorials available publicly.
+
+---
