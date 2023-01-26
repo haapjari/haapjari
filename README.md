@@ -1,6 +1,6 @@
 ### 👋
 
-- Currently working on as a Cloud Engineer and finalizing my Master's Thesis.
+- Currently working on as a `Software Engineer` and finalizing my Master's Thesis.
 - Tinkering with `Go` and creating Web Applications.
 
 ---
