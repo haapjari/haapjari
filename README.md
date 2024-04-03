@@ -1,6 +1,6 @@
 ### 👋
 
-- Working on as a `Software Engineer`, tinkering with `Go` and `Python` and creating Web Applications.
+- Working on as a `Software Engineer`, tinkering with `Go`, `TypeScript` and `Python` and creating Web Applications.
 
 ---
 
