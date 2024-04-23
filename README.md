@@ -1,6 +1,6 @@
 ### 👋
 
-- Working on as a `Software Engineer`, tinkering with `Go`.
+- Working on as a `Software Engineer`, mainly tinkering with `Go`.
 
 ---
 
