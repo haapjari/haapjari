@@ -1,12 +1,10 @@
 ### 👋
 
-- Working on as a `Software Engineer`, mainly tinkering with `Go`.
+- Working on as a `Software Engineer`. Currently focused on Data-Intensive Applications.
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haapjari)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapjari)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### Contact
