@@ -1,6 +1,6 @@
 ### 👋
 
-- Aspiring `Software Engineer`. Contributing on Data-Intensive Applications for Work.
+- Long-Life Nerd. Contributing on Data-Intensive Applications and playing with Go.
 
 ---
 
