@@ -1,6 +1,6 @@
 ### 👋
 
-- Aspiring SWE `Software Engineer`. Contributing on Data-Intensive Applications for Work.
+- Aspiring `Software Engineer`. Contributing on Data-Intensive Applications for Work.
 
 ---
 
