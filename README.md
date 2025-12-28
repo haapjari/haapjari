@@ -1,6 +1,6 @@
 ### 👋
 
-- Working on as a `Software Engineer`. Currently focused on Data-Intensive Applications.
+- Aspiring SWE `Software Engineer`. Contributing on Data-Intensive Applications for Work.
 
 ---
 
