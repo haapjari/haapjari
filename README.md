@@ -6,4 +6,4 @@
 
 ### Contact
 
-- You can reach me here, or either via my mail `haapjari@gmail.com`.
+- https://x.com/haapjari, `haapjari@gmail.com`.
