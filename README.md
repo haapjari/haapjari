@@ -1,6 +1,6 @@
 ### 👋
 
-- Long-Life Nerd. Contributing on Data-Intensive Applications and playing with Go.
+- Nerd. Contributing on Data-Intensive Applications and playing with Go.
 
 ---
 
