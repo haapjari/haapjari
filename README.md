@@ -6,4 +6,4 @@
 
 ### Contact
 
-- https://x.com/haapjari, `haapjari@gmail.com`.
+- `haapjari@gmail.com`.
