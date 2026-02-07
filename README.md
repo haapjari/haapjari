@@ -1,6 +1,6 @@
 ### 👋
 
-- Nerd. Contributing on Data-Intensive Applications and playing with Go.
+- Nerd. I like Go.
 
 ---
 
