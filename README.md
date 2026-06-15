@@ -1,6 +1,6 @@
 ### 👋
 
-- Nerd. I like Go.
+- Nerd. Go pays the bills, currently studying Systems Programming.
 
 ---
 
